@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rayan 👋
 
-<!--
-**harmelovic/harmelovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a computer science student  
+🥊 Boxer | Future AI Engineer | Olympic Dreamer  
+🇺🇸 Aiming to build my future in the USA  
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- Python, Java, SQL,C,PHP
+- AI & Machine Learning (beginner)
+- Web Development (HTML, CSS,PHP, JavaScript)
+- Oracle, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Python for AI
+- Building AI Agents
+
+
+## 📫 Connect with Me
+https://www.linkedin.com/in/rayan-harmel-59275236b/
+
+- Email: rayen.harmel.sba@icloud.com
