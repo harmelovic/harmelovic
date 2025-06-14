@@ -2,7 +2,7 @@
 
    I'm a computer science student  
    Boxer | Future AI Engineer | Olympic Dreamer  
-🇺🇸 Aiming to build my future in the USA  
+   Aiming to build my future in the USA  
 
 ##  My Skills
 - Python, Java, SQL,C,PHP
